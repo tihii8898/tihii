@@ -2,6 +2,7 @@
 - 👋 Hi, I’m **@tihii**
 - 🌱 I am undergraduate student at University of Information Technology - National University HCMC
 - 📫 Contact me **zuno8898@gmail.com**
+- :beginner: I am currently learning NextJS for Backend Development
 
 <h3>Language and Framework</h3>
     <ul>
