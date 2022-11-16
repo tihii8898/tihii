@@ -13,7 +13,7 @@
         <hr>
         <div>
             <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="">
-            <img style="width:100px;height:50px;" src ="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt='NextJS'>
+            <img style="width:100px;height:50px;" src ="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt='NextJS'>
         </div>
         <hr>
         <div>
