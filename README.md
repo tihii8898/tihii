@@ -17,9 +17,8 @@
         </div>
         <hr>
         <div>
-            <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="TailwindCSS">
-            <img style="width:100px;height:50px;" src ="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt='NextJS'>
-            
+            <img style="width:100px;height:50px;" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="TailwindCSS">
+            <img style="width:100px;height:50px;" src ="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt='MUI'>
         <div/>
     </ul>
 
