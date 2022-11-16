@@ -17,4 +17,4 @@
         </div>
     </ul>
 
-[![tihii's GitHub stats](https://github-readme-stats.vercel.app/api?username=tihii8898&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![tihii's GitHub stats](https://github-readme-stats.vercel.app/api?username=tihii8898&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
