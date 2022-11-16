@@ -15,6 +15,12 @@
             <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="">
             <img style="width:100px;height:50px;" src ="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt='NextJS'>
         </div>
+        <hr>
+        <div>
+            <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="TailwindCSS">
+            <img style="width:100px;height:50px;" src ="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt='NextJS'>
+            
+        <div/>
     </ul>
 
 [![tihii's GitHub stats](https://github-readme-stats.vercel.app/api?username=tihii8898&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
