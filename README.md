@@ -1,8 +1,8 @@
 # tihii(Huy Nguyen)
 - 👋 Hi, I’m **@tihii**
-- 🌱 I am undergraduate student at University of Information Technology - National University HCMC
+- 🌱 I am an undergraduate student at the University of Information Technology - National University HCMC
 - 📫 Contact me **huynguyentruong.18112001@gmail.com**
-- :beginner: I am currently learning NextJS for Backend Development
+
 
 <h3>Language and Framework</h3>
     <ul>
@@ -22,4 +22,3 @@
         <div/>
     </ul>
 
-[![tihii's GitHub stats](https://github-readme-stats.vercel.app/api?username=tihii8898&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
